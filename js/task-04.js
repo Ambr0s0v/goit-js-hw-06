@@ -61,5 +61,3 @@ class Counter{
 }
 
 const counter = new Counter({selector:"#counter"})
-
-const counter1 = new Counter({selector:"#counter1",initValue:100,step:500});
